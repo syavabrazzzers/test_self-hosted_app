@@ -1,0 +1,5 @@
+name: 'Test self-hosted app'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'
